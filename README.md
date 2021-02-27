@@ -10,20 +10,20 @@ Welcome to the newsroom! We've just accepted a data visualization project for a 
 The editor wants to run a series of feature stories about the health risks facing particular demographics. She's counting on us to sniff out the first story idea by sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
 The data set included with the project is based on 2014 ACS 1-year estimates from the US Census Bureau, but we are free to investigate a different data set. The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
-Before You Begin
 
-    Create a new repository for this project called D3-Challenge. Do not add this homework to an existing repository.
+----------------------
+# Project Overview 
 
-    Clone the new repository to your computer.
+    This project utilizes both html and Javascript for the necessary files. These will be the main files to run for analysis.
 
-    Inside your local git repository, create a directory for the D3 challenge. Use the folder name to correspond to the challenge: D3_data_journalism.
+ 
+----------------------
+# Our Task
+Core Assignment: D3 Dabbler
 
-    This homework utilizes both html and Javascript so be sure to add all the necessary files. These will be the main files to run for analysis.
 
-    Push the above changes to GitHub or GitLab.
 
-Your Task
-Core Assignment: D3 Dabbler (Required Assignment)
+
 
 4-scatter
 
