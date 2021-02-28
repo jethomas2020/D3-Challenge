@@ -23,17 +23,15 @@ The data set included with the project is based on 2014 ACS 1-year estimates fro
 
 Core Project Work: D3 Dabbler
 
-Created a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
+Created a scatter plot between two of the data variables such as Healthcare vs. Poverty. 
+The data can also be used to compare other relationships, i.e. Healthcare vs. Smokers, vs. Age.
 
 Using the D3 techniques we know, created a scatter plot that represents each state with circle elements. 
+
 As we coded this graphic in the app.js file of the repository directory, we pulled in the data from data.csv 
     by using the d3.csv function. The scatter plot image is in the Images Folder. 
     
-    
-    
-    
-
-    Include state abbreviations in the circles.
+    Included state abbreviations in the circles.
 
     Create and situate your axes and labels to the left and bottom of the chart.
 
