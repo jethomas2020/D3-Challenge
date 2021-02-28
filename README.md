@@ -40,7 +40,7 @@ As we coded this graphic in the app.js file of the repository directory, we pull
 
 
 ---------------------------------------------
-# Bonus: Impress the Boss (Optional Buildout- Coming Soon...)
+# Bonus: Impress the Boss (Optional Buildout- v2 Coming Soon...)
 
 Why make a static graphic when D3 lets you interact with your data?  --  More to come in the next repo v2 update...
 
