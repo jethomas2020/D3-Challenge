@@ -42,7 +42,7 @@ As we coded this graphic in the app.js file of the repository directory, we pull
 ---------------------------------------------
 # Bonus: Impress the Boss with More Options
 
-Why make a static graphic when D3 lets you interact with your data?  --  More to come in the next repo v2 update...
+Why make a static graphic when D3 lets you interact with your data? 
 
 **Incorporate d3-Tooltip**
 
