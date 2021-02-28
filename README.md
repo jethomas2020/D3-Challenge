@@ -40,9 +40,9 @@ As we coded this graphic in the app.js file of the repository directory, we pull
 
 
 ---------------------------------------------
-# Bonus: Impress the Boss (Optional)
+# Bonus: Impress the Boss (Optional Buildout)
 
-Why make a static graphic when D3 lets you interact with your data?
+Why make a static graphic when D3 lets you interact with your data?  --  More to come in the next repo update...
 
 **1. More Data, More Dynamics**
 
@@ -54,24 +54,7 @@ You're going to include more demographics and more risk factors. Place additiona
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the d3-tip.js plugin developed by Justin Palmer—we've already included this plugin in your assignment directory.
 
-Tooltip
-
-    Check out David Gotz's example to see how you should implement tooltips with d3-tip.
-
-Assessment
-
-Your final product will be assessed on the following metrics:
-
-    Creation of a new repository on GitHub called D3-Challenge (note the kebab-case). Do not add to an already existing repo.
-
-    Completion of all steps in the core assignment
-
-    Coherency of scatter plot (labels, ticks)
-
-    Visual attraction
-
-    Professionalism
-
-    Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
 
+
+    
