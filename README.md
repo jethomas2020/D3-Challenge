@@ -14,20 +14,15 @@ The data set included with the project is based on 2014 ACS 1-year estimates fro
 ----------------------
 # Project Overview 
 
-    This project utilizes both html and Javascript for the necessary files. These will be the main files to run for analysis.
+    This project utilizes both html and Javascript for the necessary files. These will be the main 
+    files to run for analysis.
 
  
 ----------------------
 # Our Task
 Core Assignment: D3 Dabbler
 
-
-
-
-
-4-scatter
-
-You need to create a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
+Created a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
 
 Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the app.js file of your homework directory—make sure you pull in the data from data.csv by using the d3.csv function. Your scatter plot should ultimately appear like the image at the top of this section.
 
