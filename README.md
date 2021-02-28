@@ -48,7 +48,8 @@ Incorporate d3-Tooltip
 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. 
 
-Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the d3-tip.js plugin developed by Justin Palmer—we've already included this plugin in the project directory.
+Add tooltips to our circles and displayed each tooltip with the data that the user has selected. 
+Used the d3-tip.js plugin developed by Justin Palmer - that was already included this plugin in the project directory.
 
 
 
