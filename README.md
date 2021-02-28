@@ -33,9 +33,10 @@ As we coded this graphic in the app.js file of the repository directory, we pull
     
     Included state abbreviations in the circles.
 
-    Create and situate your axes and labels to the left and bottom of the chart.
+    Created and situated our axes and labels to the left and bottom of the chart.
 
-    Note: You'll need to use python -m http.server to run the visualization. This will host the page at localhost:8000 in your web browser.
+    Note: We need to use python -m http.server to run the visualization. This will host the page at 
+        localhost:8000 in your web browser.
 
 Bonus: Impress the Boss (Optional Assignment)
 
