@@ -20,11 +20,18 @@ The data set included with the project is based on 2014 ACS 1-year estimates fro
  
 ----------------------
 # Our Task
-Core Assignment: D3 Dabbler
+
+Core Project Work: D3 Dabbler
 
 Created a scatter plot between two of the data variables such as Healthcare vs. Poverty or Smokers vs. Age.
 
-Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the app.js file of your homework directory—make sure you pull in the data from data.csv by using the d3.csv function. Your scatter plot should ultimately appear like the image at the top of this section.
+Using the D3 techniques we know, created a scatter plot that represents each state with circle elements. 
+As we coded this graphic in the app.js file of the repository directory, we pulled in the data from data.csv 
+    by using the d3.csv function. The scatter plot image is in the Images Folder. 
+    
+    
+    
+    
 
     Include state abbreviations in the circles.
 
