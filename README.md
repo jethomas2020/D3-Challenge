@@ -50,7 +50,7 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 Add tooltips to our circles and displayed each tooltip with the data that the user has selected. 
 
-Used the d3-tip.js plugin developed by Justin Palmer - that was already included this plugin in the project directory.
+Used the d3-tip.js plugin developed by Justin Palmer - already included this plugin in the project directory.
 
 
 
